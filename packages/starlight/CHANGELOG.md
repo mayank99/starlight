@@ -1,5 +1,13 @@
 # @astrojs/starlight
 
+## 0.37.4
+
+### Patch Changes
+
+- [#3663](https://github.com/withastro/starlight/pull/3663) [`00cbf00`](https://github.com/withastro/starlight/commit/00cbf001fee4fd59f351c7a6c0f8c353c7c41f13) Thanks [@lines-of-codes](https://github.com/lines-of-codes)! - Adds Thai language support
+
+- [#3658](https://github.com/withastro/starlight/pull/3658) [`ac79329`](https://github.com/withastro/starlight/commit/ac793290f0dbd21f9b9a5d6f60aa315043815227) Thanks [@delucis](https://github.com/delucis)! - Avoids adding redundant `aria-current="false"` attributes to sidebar entries
+
 ## 0.37.3
 
 ### Patch Changes
